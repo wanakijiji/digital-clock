@@ -2,7 +2,7 @@
   "short_name": "デジタル時計",
   "name": "デジタル時計",
   "display": "standalone",
-  "start_url": "https://github.com/wanakijiji/digital-clock/",
+  "start_url": "https://wanakijiji.github.io/digital-clock/",
   "theme_color": "red",
   "background_color": "blue",
   "icons": [{
